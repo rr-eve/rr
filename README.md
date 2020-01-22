@@ -1,2 +1,1 @@
-# rr
-Ranger Regiment
+# Ranger Regiment
